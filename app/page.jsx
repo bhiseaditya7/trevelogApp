@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import first from "../public/abc.png";
 import Image from "next/image";
 import First from "@/components/First";
-import Second from "@/components/second";
+import Second from "@/components/Second";
 import Three from "@/components/Three";
 import Forth from "@/components/Forth";
 import Fifth from "@/components/Fifth";
