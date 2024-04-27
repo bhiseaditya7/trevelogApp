@@ -1,0 +1,236 @@
+.topgra{
+    display: flex;
+    background: linear-gradient(to bottom right, #FFE3CA, white,white,white,white,white);
+}
+
+.mynavbar{
+    margin-left:19%;
+    
+}
+.brand1{
+    margin-left: 10%;
+}
+
+.footerlogo{
+    padding-right: 20px;
+    
+    margin-right: 10%;
+}
+hr{
+    color: transparent;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.button1{
+    color: #FF407D;
+    width: 19%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.mybtn{
+    width:10%;
+}
+.mycontainer1{
+    margin-top: 5%;
+    margin-left: 10%;
+   
+}
+.mycontainer2{
+    margin-top: 4%;
+    
+    
+    display: flex;
+    flex-direction: row;
+}
+.image1{
+    
+    width:65%;
+    float:"right";
+    margin-right: 5%;
+    
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+    
+    
+.leftImg{
+    color: blue;
+    max-width: 3%;
+    height: auto;
+    margin-left: 3%;
+    
+    
+
+}
+.secondMidImg{
+    margin-top: 25%;
+}
+
+
+.SecondContainer{
+    display: flex;
+    flex-direction: row;
+
+}
+.secondgra{
+    background: linear-gradient(315deg, #F7C566, white,white,white,white,white);
+}
+
+#expedia{
+    margin-top: 25%;
+    
+}
+#booking{
+    margin-top: 15%;
+    
+
+}
+#orbitz{
+    margin-top: 15%;
+}
+#trip{
+    margin-top: 15%;
+}
+
+
+.thirdleft{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 5%;
+    
+}
+
+#mycard{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin: 10%;
+    padding: 10%;
+
+}
+.pink{
+    
+    color: #FF407D;
+}
+.innerpink{
+    font-size: xx-large;
+}
+.forth{
+    display: flex;
+    flex-direction: row;
+
+}
+.forthimg{
+    max-width: 60%;
+
+}
+.forthright{
+    font-size: 140px;
+}
+
+.forthbold{
+    margin-top: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+.newsletter {
+    padding: 80px 0;
+    background: #FFFAB7;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: 10%;
+}
+
+
+.newsletter .content {
+
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2;
+
+ }
+
+ .content-tuned{
+ 	    font-size: 0.8rem;
+    margin-bottom: 34px !important;
+    color: #fff;
+ }
+
+
+
+
+
+.form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius: 2px 0px 0px 2px;
+}
+
+
+.form-control:focus {
+box-shadow: none !important;
+border: 2px solid #243c4f;
+border-color: none;
+
+}
+
+
+.btn {
+min-height: 50px; 
+border-radius:0;
+background: #86469C;
+color: #fff;
+font-weight:300;
+}
+
+.btn:hover {
+
+background: red;
+color: #fff
+
+}
+
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgba(0,123,255,.25) !important;
+}
+
+.unsubscribe-link{
+	text-decoration: none !important;
+	
+	font-size: 13px;
+	color: #fff; 
+}
+
+.unsubscribe-link:hover{
+	text-decoration: none !important;
+
+	color: #fff;
+	
+}
+.emailbox{
+    max-width: 70%;
+    margin: auto;
+}
+
+#footerimg{
+    width: 30%;
+}
